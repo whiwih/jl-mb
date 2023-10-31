@@ -22,7 +22,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 中科院技术物理研究所
-    url: https://www.stanford.edu/
+    url: http://www.sitp.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -37,8 +37,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: 上海交通大学
+      year: 2019
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
